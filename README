@@ -1,0 +1,13 @@
+For the TweetGame program to work, you need to import a python file
+that contains four variables, which are your API_key, API_secret_key,
+access_token, and access_token_secret.
+
+To run the program, the play() function needs to be called, and the program
+will prompt users for two Tweeter users that they wish to play guess with.
+
+My biggest challenge: I wasn't sure the method I'm using is the right way
+to get the maximum 3200 tweets, since the .user_timeline() function only
+allows a max of 200 tweets. And also I did not use a HTTP request. If I
+have more time to work on this project, I would do more research on this,
+and see if there is a faster method to do this, and also explore HTTP requests.
+
